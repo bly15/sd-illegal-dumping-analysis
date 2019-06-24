@@ -1,2 +1,3 @@
-# sd-illegal-dumping-analysis
-Exploratory analysis of dataset regarding illegal dumpings in the City of San Diego
+# Population Density & Illegal Dumpings in San Diego
+
+With the rampant issues of illegal dumpings becoming more and more of a predicament within the City of San Diego, we analyze district areas in San Diego that are hotbeds for this activity. From this, we explore whether there is any correlational relationship between these areas and population density. Using the results from our study, we want to inform the policymakers and local environmental agencies of the City of San Diego to target those immediate, urgent district areas that are in need of recycling programs and reduced fees associated with disposal activity.
